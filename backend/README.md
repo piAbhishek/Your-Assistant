@@ -11,10 +11,10 @@ For usage Documentation head to [docs/README.md](docs/README.md)
 
 Clone the Repository
 ```
-git clone https://github.com/TanmoySG/YourAssistant/
+git clone https://github.com/piAbhishek/Your-Assistant/
 ```
 
-Browse to the `YourAssistant` directory and Install the dependancies using `pip`
+Browse to the `Your-Assistant` directory and Install the dependancies using `pip`
 ```
 cd YourAssistant
 pip install -r requirements.txt
@@ -36,7 +36,7 @@ flask run
 
 You can also use the `setup.py` script to complete the setup. The setup-script installs the dependancies and also adds the token to the `token.json` file
 
-Download the `v0.1-Beta Release` files from [@TanmoySG/YourAssistant v0.1-Beta](https://github.com/TanmoySG/YourAssistant/releases/tag/v0.1-Beta)
+
 
 ```
 YourAssistantSource.tar.gz
